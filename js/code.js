@@ -54,3 +54,11 @@ function clean_col() {
     fin_col.innerHTML = "";
     pesos_col.value = "";
 }
+
+var top_secret = document.getElementById("mensaje_secreto");
+
+top_secret.addEventListener("click", mensajeSecreto);
+
+function mensajeSecreto() {
+    alert("Puto el que lo lea");
+}
