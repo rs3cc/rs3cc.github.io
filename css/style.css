@@ -28,8 +28,6 @@ h1 {
     font-size: 20px;
 }
 
-.footer_p {
-    font-size: 30px;
-    color: rebeccapurple;
-    font-family: Courier;
+#footer_p {
+    font-size: 20px;
 }
