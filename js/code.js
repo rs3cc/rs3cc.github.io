@@ -60,5 +60,5 @@ var top_secret = document.getElementById("mensaje_secreto");
 top_secret.addEventListener("click", mensajeSecreto);
 
 function mensajeSecreto() {
-    alert("Puto el que lo lea");
+    alert("Mensaje secreto para confirmar que Juan es alucin");
 }
